@@ -115,6 +115,12 @@ nav a:hover {
   margin-bottom: 30px;
 }
 
+.section-2 a{
+  color: #0067b8;
+  font-weight: 600;
+  font-size: 16px;
+}
+
 .promos {
   padding: 30px;
 }
